@@ -1,0 +1,23 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    background: url(./images/odin-face.png);
+    background-position: center;
+    background-color: white;
+}
+
+div {
+    background-color: rgba(232, 184, 81, 0.9);
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    background-color: rgba(220, 220, 220, 0.9);
+    font-size: 80px;
+}
+
+#recipe {
+    background-image: none;
+}
