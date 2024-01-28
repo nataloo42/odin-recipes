@@ -1,3 +1,2 @@
 # odin-recipes
-I am writing a description of this project. I'm not sure what it is right now,
-but I'll know more as I go. We are creating a website for recipes.
+This website is a result of exercises completed as part of The Odin Project foundations course. It combines lessons in html and CSS and serves as a place to practice skills used in these methods.
